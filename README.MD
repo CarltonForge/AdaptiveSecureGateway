@@ -1,5 +1,3 @@
-
-```markdown
 # 🚀 Adaptive Secure Gateway
 
 > **🚧 Project Status: Work in Progress (Alpha)**  
@@ -107,4 +105,3 @@ src/
 ## 📜 License
 This project is licensed under the **MIT License**. See `LICENSE` for details.
 
-```
